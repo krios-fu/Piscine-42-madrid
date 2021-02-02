@@ -1,0 +1,5 @@
+Credentials cache: API:D28FDB4D-AC8F-497C-84C2-70792AA2B839
+        Principal: krios-fu@42MADRID.COM
+
+  Issued                Expires               Principal
+Nov 13 13:02:42 2019  Nov 13 23:02:33 2019  krbtgt/42MADRID.COM@42MADRID.COM
