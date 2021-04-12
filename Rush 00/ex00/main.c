@@ -10,10 +10,19 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+#include <unistd.h>
+#include <stdio.h>
 void	rush(int x, int y);
 
 int		main(void)
 {
-	rush(8, 9);
+	int x;
+	int y;
+	while (1)
+	{
+		printf("Cordenadas X e Y\n");
+		scanf("%d %d", &x, &y);
+		rush(x, y);
+	}
 	return (0);
 }
